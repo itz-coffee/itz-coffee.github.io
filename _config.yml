@@ -2,4 +2,4 @@ remote_theme: itz-coffee/cayman-dark
 theme_color: "#9c137c"
 icon: assets/favicon.png
 github:
-  is_project_page: true
+  is_project_page: false
