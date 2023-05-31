@@ -22,15 +22,15 @@ Email: `gm1003.gm@gmail.com`
 - C#
 - Lua
 
-# Projects
+# Experience
 [**WidgetBot**](https://widgetbot.io/)
 
 Frontend Developer, Feb 2023 - Current
 
-![wb_logo](assets/wb_logo.jpg)
+<!-- ![wb_logo](assets/wb_logo.jpg) -->
 
 [**Thriving Ventures**](https://thrivingventures.com/)
 
 Game Developer, Jun 2022 - Current
 
-![tv_logo](assets/tv_logo.jpg)
+<!-- ![tv_logo](assets/tv_logo.jpg) -->
