@@ -7,7 +7,7 @@ I enjoy learning new technologies as well as working with others, especially whe
 Open for business inquiries.
 
 # Contact
-Discord: `itz_coffee#5753`
+Discord: `itz_coffee`
 
 Email: `gm1003.gm@gmail.com`
 
