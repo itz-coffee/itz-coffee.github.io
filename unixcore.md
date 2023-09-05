@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://discord.gg/dP8xNKbzcV
+target: "https://discord.com/invite/dP8xNKbzcV"
 ---
