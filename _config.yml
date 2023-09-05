@@ -3,5 +3,3 @@ theme_color: "#9c137c"
 icon: assets/favicon.png
 github:
   is_project_page: false
-gems:
-  - jekyll-redirect-from
