@@ -1,3 +1,4 @@
 ---
-redirect_to: "discord.gg/dP8xNKbzcV"
+layout: forward
+target: discord.gg/dP8xNKbzcV
 ---
