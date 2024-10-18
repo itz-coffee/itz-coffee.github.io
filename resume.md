@@ -52,7 +52,7 @@ Email: `gm1003.gm@gmail.com`
 
 
 ## Experience
-[**Thriving Ventures**](https://thrivingventures.com/) **Lead Developer**, Jun 2024 - Current
+[**Thriving Ventures**](https://thrivingventures.com/), **Lead Developer**, Jun 2024 - Current
 
 <!-- ![tv_logo](assets/tv_logo.jpg) -->
 - Led a team of 7 developers in the successful completion of multiple software development projects, ensuring adherence to project timelines and quality standards
@@ -62,7 +62,7 @@ Email: `gm1003.gm@gmail.com`
 - Managed version control systems (e.g., Git) effectively, ensuring proper branching strategies were followed for efficient collaboration among team members
 - Performed code reviews regularly to identify bugs or areas for optimization while maintaining high code quality
 
-[**WidgetBot**](https://widgetbot.io/) **Frontend Developer**, Feb 2023 - June 2024
+[**WidgetBot**](https://widgetbot.io/), **Frontend Developer**, Feb 2023 - June 2024
 
 <!-- ![wb_logo](assets/wb_logo.jpg) -->
 - Developed responsive and user-friendly web applications using CSS and TypeScript
@@ -72,7 +72,7 @@ Email: `gm1003.gm@gmail.com`
 - Created reusable components to improve development efficiency and maintainability of codebase
 - Worked closely with back-end developers to integrate front-end interfaces with server-side logic
 
-[**Thriving Ventures**](https://thrivingventures.com/) **Game Developer**, Jun 2022 - June 2024
+[**Thriving Ventures**](https://thrivingventures.com/), **Game Developer**, Jun 2022 - June 2024
 
 <!-- ![tv_logo](assets/tv_logo.jpg) -->
 - Developed and implemented gameplay mechanics, AI systems, and user interfaces for various game projects
