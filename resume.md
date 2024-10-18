@@ -18,7 +18,6 @@ Email: `gm1003.gm@gmail.com`
 - Typescript
 - Javascript
 - Lua
-- Scala
 - Java
 - Lua
 - Python
