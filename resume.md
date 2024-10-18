@@ -29,26 +29,16 @@ Email: `gm1003.gm@gmail.com`
 - MySQL
 
 ## Projects
-[embed](https://github.com/widgetbot-io/embed) - The main embed repo for WidgetBot.
-
-[coffeebot](https://github.com/itz-coffee/coffeebot) - A NodeJS bot that lets users write custom Lua tags.
-
-[MyReports](https://github.com/itz-coffee/MyReports) - An addon for game servers to make support tickets.
-
-[discord-commits](https://github.com/itz-coffee/discord-commits) - A GitHub action that publishes any commits to Discord.
-
-[helix-logs](https://github.com/itz-coffee/helix-logs) - A logger for Helix game servers written in Typescript, CSS and HTML.
-
-[helix-plugins](https://github.com/itz-coffee/helix-plugins) - Various plugins for the helix framework.
-
-[discord-relay](https://github.com/itz-coffee/discord-relay) - An addon that relays messages to and from a game server to a discord channel.
-
-[java-chat-server](https://github.com/itz-coffee/java-chat-server) - Small high school project for relaying chat over a local network.
-
-[excel-fill-remover](https://github.com/itz-coffee/excel-fill-remover) - Small JS script to automate editing any filled in cells with no pattern.
-
-[site-archive](https://github.com/itz-coffee/site-archive) - Old archive of my first website, HTML mostly.
-
+- [embed](https://github.com/widgetbot-io/embed) - The main embed repo for WidgetBot.
+- [coffeebot](https://github.com/itz-coffee/coffeebot) - A NodeJS bot that lets users write custom Lua tags.
+- [MyReports](https://github.com/itz-coffee/MyReports) - An addon for game servers to make support tickets.
+- [discord-commits](https://github.com/itz-coffee/discord-commits) - A GitHub action that publishes any commits to Discord.
+- [helix-logs](https://github.com/itz-coffee/helix-logs) - A logger for Helix game servers written in Typescript, CSS and HTML.
+- [helix-plugins](https://github.com/itz-coffee/helix-plugins) - Various plugins for the helix framework.
+- [discord-relay](https://github.com/itz-coffee/discord-relay) - An addon that relays messages to and from a game server to a discord channel.
+- [java-chat-server](https://github.com/itz-coffee/java-chat-server) - Small high school project for relaying chat over a local network.
+- [excel-fill-remover](https://github.com/itz-coffee/excel-fill-remover) - Small JS script to automate editing any filled in cells with no pattern.
+- [site-archive](https://github.com/itz-coffee/site-archive) - Old archive of my first website, HTML mostly.
 
 
 ## Experience
