@@ -30,22 +30,30 @@ Email: `gm1003.gm@gmail.com`
 
 ## Projects
 [embed](https://github.com/widgetbot-io/embed) - The main embed repo for WidgetBot.
+
 [coffeebot](https://github.com/itz-coffee/coffeebot) - A NodeJS bot that lets users write custom Lua tags.
+
 [MyReports](https://github.com/itz-coffee/MyReports) - An addon for game servers to make support tickets.
+
 [discord-commits](https://github.com/itz-coffee/discord-commits) - A GitHub action that publishes any commits to Discord.
+
 [helix-logs](https://github.com/itz-coffee/helix-logs) - A logger for Helix game servers written in Typescript, CSS and HTML.
+
 [helix-plugins](https://github.com/itz-coffee/helix-plugins) - Various plugins for the helix framework.
+
 [discord-relay](https://github.com/itz-coffee/discord-relay) - An addon that relays messages to and from a game server to a discord channel.
+
 [java-chat-server](https://github.com/itz-coffee/java-chat-server) - Small high school project for relaying chat over a local network.
+
 [excel-fill-remover](https://github.com/itz-coffee/excel-fill-remover) - Small JS script to automate editing any filled in cells with no pattern.
+
 [site-archive](https://github.com/itz-coffee/site-archive) - Old archive of my first website, HTML mostly.
 
 
 
 ## Experience
-[**Thriving Ventures**](https://thrivingventures.com/)
+[**Thriving Ventures**](https://thrivingventures.com/) **Lead Developer**, Jun 2024 - Current
 
-**Lead Developer**, Jun 2024 - Current
 <!-- ![tv_logo](assets/tv_logo.jpg) -->
 - Led a team of 7 developers in the successful completion of multiple software development projects, ensuring adherence to project timelines and quality standards
 - Developed and implemented coding standards and best practices, resulting in improved code quality and maintainability
@@ -54,9 +62,8 @@ Email: `gm1003.gm@gmail.com`
 - Managed version control systems (e.g., Git) effectively, ensuring proper branching strategies were followed for efficient collaboration among team members
 - Performed code reviews regularly to identify bugs or areas for optimization while maintaining high code quality
 
-[**WidgetBot**](https://widgetbot.io/)
+[**WidgetBot**](https://widgetbot.io/) **Frontend Developer**, Feb 2023 - June 2024
 
-**Frontend Developer**, Feb 2023 - June 2024
 <!-- ![wb_logo](assets/wb_logo.jpg) -->
 - Developed responsive and user-friendly web applications using CSS and TypeScript
 - Optimized website performance by implementing efficient coding practices and minimizing page load times
@@ -65,11 +72,8 @@ Email: `gm1003.gm@gmail.com`
 - Created reusable components to improve development efficiency and maintainability of codebase
 - Worked closely with back-end developers to integrate front-end interfaces with server-side logic
 
-[**Thriving Ventures**](https://thrivingventures.com/)
+[**Thriving Ventures**](https://thrivingventures.com/) **Game Developer**, Jun 2022 - June 2024
 
-Game Developer, Jun 2022 - June 2024
-
-**Lead Developer**, Jun 2024 - Current
 <!-- ![tv_logo](assets/tv_logo.jpg) -->
 - Developed and implemented gameplay mechanics, AI systems, and user interfaces for various game projects
 - Optimized game performance by identifying and resolving coding issues, resulting in smoother gameplay experience
