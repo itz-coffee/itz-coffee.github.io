@@ -13,10 +13,3 @@ feel free to message me anywhere but i will respond quicker to discord
 thats all there really is to know about me, idk what else to write. add me on steam to play games idk
 
 [https://streamable.com/vktev4](https://streamable.com/vktev4)
-
-# socials
-[discord](https://discord.com/users/345691161530466304) | 
-[steam](https://steamcommunity.com/id/wildflowericecoffee) | 
-[twitter](https://twitter.com/wildflowericeco)
-
-> p.s. if you are looking for a resume then go [here](./resume)
